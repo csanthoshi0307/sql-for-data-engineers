@@ -1,21 +1,21 @@
-30 day roadmap
+### 30 day roadmap
 | 
-|-- 01 - Fundamentals
+### |-- 01 - Fundamentals
 |
-|-- 02 - KEYS and CONSTRAINTS
+### |-- 02 - KEYS and CONSTRAINTS
 |
-|-- 03 - CRUD Operations
+### |-- 03 - CRUD Operations
 |
-|-- 04 - Joins (Inner and Left)
+### |-- 04 - Joins (Inner and Left)
 |
-|-- 05 - Joins (Right + Full + Cross)  
+### |-- 05 - Joins (Right + Full + Cross)  
 |
-|-- 06 - Set Operators (UNION, UNION ALL, EXCEPT, INTERSECT)      
+### |-- 06 - Set Operators (UNION, UNION ALL, EXCEPT, INTERSECT)      
 |
-|-- 07 - 
+### |-- 07 - 
 |
-|-- 08 - 
+### |-- 08 - 
 |
-|-- 09 - 
+### |-- 09 - 
 |
-|-- 10 -
+### |-- 10 -
