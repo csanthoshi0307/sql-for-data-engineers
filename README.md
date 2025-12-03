@@ -17,7 +17,7 @@ Perfect for strengthening SQL skills and showcasing expertise on GitHub.
 
 Each topic contains:
 
-- `notes.md` → Theory + diagrams + explanations  
+- `notes.md` → Theory and explanations  
 - `examples.sql` → Practical examples + exercises  
 
 ---
