@@ -56,10 +56,11 @@ Explanation:
 Groups employees by department and counts how many employees are in each.
 
 ### Example 2 — Average salary per department
+```
 SELECT Department, AVG(Salary) AS AverageSalary
 FROM Employees
 GROUP BY Department;
-
+```
 
 Explanation:
 Calculates the average salary of employees within each department.
