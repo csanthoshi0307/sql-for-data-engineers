@@ -132,7 +132,7 @@ SELECT Department, SUM(Salary) AS TotalSalary
 FROM Employees
 GROUP BY Department
 ORDER BY TotalSalary DESC;
-
+```
 
 Explanation:
 Sorts departments by total salary expenditure in descending order.
