@@ -28,17 +28,36 @@
 |
 ### |-- 14 - Weekly Project to explore topics Aggregation, Variables, Temp Tables, Conditional statements & Window Functions
 |
-### |-- 15 -
+### |-- 15 - Subqueries - Correlated Subqueries
 |
-### |-- 16 - 
+### |-- 16 - CTEs - Recursive CTEs
 |
-### |-- 17 -
+### |-- 17 - Indexing Concepts
 |
-### |-- 18 - 
+### |-- 18 - Execution Plans
 |
-### |-- 19 -
+### |-- 19 - Views
 |
-### |-- 20 - 
+### |-- 20 - Stored procedures
 |
-### |-- 21 -
+### |-- 21 - Weekly Project (Optimize slow queries)
+|
+### |-- 22
+|
+### |-- 23
+|
+### |-- 24
+|
+### |-- 25
+|
+### |-- 26
+|
+### |-- 27
+|
+### |-- 28
+|
+### |-- 29 Final Project
+|
+### |-- 30 A full ETL pipeline in SQL (incremental load)
+
 
