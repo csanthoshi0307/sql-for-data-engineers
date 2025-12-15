@@ -113,14 +113,14 @@ JOIN EmployeeCTE ec ON e.ManagerId = ec.Id
 ✔ Improves Query Readability
 - Logical flow
 - No deeply nested queries
-✔ Simplifies Maintenance
+- Simplifies Maintenance
 - Change logic in one place
 - Less error-prone
-✔ Supports Recursion
+- Supports Recursion
 - Only clean way to handle hierarchical data in SQL
-✔ Reusable Logic (Within Query)
+- Reusable Logic (Within Query)
 - Same result set used multiple times
-✔ Works with Analytical Functions
+- Works with Analytical Functions
 - Clean separation of calculation and filtering
 
 6️⃣ Usage Benefits of CTE
