@@ -32,13 +32,13 @@
 |
 ### |-- 16 - CTEs - Recursive CTEs
 |
-### |-- 17 - Indexing Concepts
+### |-- 17 - Execution Plans
 |
-### |-- 18 - Execution Plans
+### |-- 18 - Views
 |
-### |-- 19 - Views
+### |-- 19 - Materialized Views - Indexed Views
 |
-### |-- 20 - Stored procedures
+### |-- 20 - Stored procedures and Indexing concepts
 |
 ### |-- 21 - Weekly Project (Optimize slow queries)
 |
