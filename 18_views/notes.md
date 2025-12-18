@@ -57,7 +57,7 @@ GROUP BY 1;
 
 ✔ Updatable:
 
-- ingle table
+- Single table
 - No GROUP BY, DISTINCT, aggregates
 
 ❌ Non-updatable:
