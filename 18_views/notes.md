@@ -106,10 +106,10 @@ One definition → consistent results.
 # ✅ 5. Backward Compatibility
 
 Change table structure without breaking apps.
-
+```
 -- App still uses view
 SELECT * FROM vw_customer;
-
+```
 ## 🔹 Disadvantages of Views
 ❌ 1. Performance Overhead
 
