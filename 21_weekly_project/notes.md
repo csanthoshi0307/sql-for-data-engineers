@@ -138,7 +138,7 @@ JOIN Customers c ON o.CustomerId = c.CustomerId;
 ⚠️ Views do not store data
 ⚠️ Performance depends on base tables
 
-## 4. Indexed Views (Materialized Views in SQL Server)
+## 🔹 4. Indexed Views (Materialized Views in SQL Server)
 # A. Indexed View (Performance Boost)
 ```
 CREATE VIEW vw_DailySales
@@ -183,7 +183,7 @@ What look for
 
 ```
 
-## 6. Indexing Strategies
+## 🔹6. Indexing Strategies
 # A. Non-clustered Index
 ```
 CREATE NONCLUSTERED INDEX IX_Orders_OrderDate
@@ -195,7 +195,7 @@ INCLUDE (CustomerId, TotalAmount);
 CREATE NONCLUSTERED INDEX IX_Orders_Customer_Date
 ON Orders(CustomerId, OrderDate);
 ```
-## 7. Stored Procedures (Optimized)
+## 🔹  7. Stored Procedures (Optimized)
 ```
 A. Parameterized Stored Procedure
 CREATE PROCEDURE sp_GetCustomerOrders
@@ -218,7 +218,7 @@ END;
 - Prevents SQL injection
 - Faster than ad-hoc queries
 
-## 8. Common Optimization Tips (VERY IMPORTANT)
+## 🔹 8. Common Optimization Tips (VERY IMPORTANT)
 ✅ Query Level
 Avoid SELECT *
 Use EXISTS instead of IN
